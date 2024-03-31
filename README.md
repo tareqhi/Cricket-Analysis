@@ -23,9 +23,9 @@ In both these files, we have retrieved the data dynamically. Every day after the
 
 ## 📉 **Analysis**
 
-The 'Main' folder contains the analysis of the data in the two files:
+The 'Python-files' folder contains the analysis of the data in the two files:
 
-- Analysis.ipynb
+- IPL-analysis.ipynb
 
 ## 📊 **Datasets**
 
