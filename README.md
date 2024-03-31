@@ -32,7 +32,7 @@ Datasets collected from various cricket related websites
 
 ## **Output**
 
-![png](../Output/output_8_0.png)
+![png](/Output/output_8_0.png)
 ![png](../Output/output_13_0.png)
 ![png](../Output/output_15_0.png)
 ![png](../Output/output_21_0.png)
