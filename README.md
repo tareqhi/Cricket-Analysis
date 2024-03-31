@@ -10,7 +10,7 @@ We have performed web scrapping on the data of IPL 2022 which was dynamic. We ha
 6. Most Sixes
 7. Most Fours
 8. Most Fifties
-9. More to implement in future...
+9. More to implement in the future...
 
 ## 🖇️ **Web Scrapping**
 
@@ -23,7 +23,7 @@ In both these files, we have retrieved the data dynamically. Every day after the
 
 ## 📉 **Analysis**
 
-The 'Python-files' folder contains the analysis of the data in the two files:
+The 'Python-files' folder contains the code files of the data:
 
 - IPL-analysis.ipynb
 
